@@ -1,14 +1,12 @@
 package com.alura.jdbc.controller;
 
+import com.alura.jdbc.factory.ConnectionFactory;
+
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-
-import com.alura.jdbc.factory.ConnectionFactory;
-
-import javax.sql.rowset.RowSetWarning;
 
 public class ProductoController {
 
