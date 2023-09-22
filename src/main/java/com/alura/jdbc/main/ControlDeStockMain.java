@@ -1,4 +1,4 @@
-package com.alura.jdbc;
+package com.alura.jdbc.main;
 
 import javax.swing.JFrame;
 
