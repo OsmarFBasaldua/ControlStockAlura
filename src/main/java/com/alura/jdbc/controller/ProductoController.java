@@ -9,7 +9,7 @@ import com.alura.jdbc.modelo.Producto;
 
 public class ProductoController {
 
-    private ProductoDAO productoDao;
+    public final ProductoDAO productoDao;
     private Integer categoriaId;
 
     public ProductoController() {
